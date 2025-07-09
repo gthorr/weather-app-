@@ -15,3 +15,10 @@ A Streamlit web application that aggregates short-term and long-term forecasts f
    ```bash
    git clone <repo-url>
    cd <repo-folder>
+
+streamlit
+pandas
+requests
+feedparser
+
+pip install streamlit pandas requests
